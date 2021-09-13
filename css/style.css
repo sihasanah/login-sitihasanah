@@ -1,0 +1,84 @@
+body{
+	font-family: sans-serif;
+	background: #483D8B;
+    font-size: 12px;
+}	
+
+h5{
+	text-align: center;
+	/*ketebalan font*/
+	
+    text-transform: uppercase;
+}
+.kotak{
+    width: 100%;
+    padding: 30px 35px;
+    background-color: #E6E6FA;
+   border-radius: 20px;
+   margin-top: 50px;
+   
+}
+
+.kotak1{
+	width: 100%;
+	padding: 20px 20px;
+	background-color:#E6E6FA; 
+	border-radius: 10px;
+	margin-top: 80px;
+}
+.logo{
+	margin-left: 100px;
+	width:30%;
+	height: auto;
+    text-align: center;
+}
+#gambar{
+	width: 100%;
+	height:auto;
+	margin-top: 10px;
+}
+.form-control{
+    box-sizing : border-box;
+	width: 100%;
+	padding: 6px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+    font-size: 11pt;
+}
+.login-help{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register-help{
+    margin-top:auto;
+}
+#register{
+	margin-left:30px;
+}
+#submitlogin{
+	width: 100%;
+}
+
+.submit:hover{
+	background:#031D3C;
+	font-size: 16px;
+	color: white;
+	padding: 14px 40px;
+	border-radius: 30px;
+	border:  2px solid  #FFFAFA;
+}
+#navbarNav ul{
+	margin: auto;
+
+}
+.nav-link{
+	color: #B0C4DE;
+	font-size: 35px;
+}
+.navbar-expand-lg {
+	background-color:grey;
+	font-size:14px;
+	margin-top:70px;
+    padding: 35px;
+}
